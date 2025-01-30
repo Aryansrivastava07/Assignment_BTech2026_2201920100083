@@ -11,3 +11,6 @@ Create a calculator class having two integers a and b as attributes. This class 
 <br><br>
 <b>Question 4-</b><br>
 Create a base class Animal with a property name (a string).Create a class Dog that inherits from Animal. The Dog class should have an additional property breed (a string) to represent the breed of the dog.In the main function, create an instance of the Dog class, set its name and breed properties, and then display the name and breed of the dog.
+<br><br>
+<b>Question 5-</b><br>
+Design a class Circle with a private member radius. Include a default constructor, a parameterized constructor, and a destructor. The class should have methods to calculate and return the area and circumference. Demonstrate object creation using both constructors.
