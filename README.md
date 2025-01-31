@@ -14,3 +14,6 @@ Create a base class Animal with a property name (a string).Create a class Dog th
 <br><br>
 <b>Question 5-</b><br>
 Design a class Circle with a private member radius. Include a default constructor, a parameterized constructor, and a destructor. The class should have methods to calculate and return the area and circumference. Demonstrate object creation using both constructors.
+<br><br>
+<b>Question 6-</b><br>
+Create a base class Vehicle with a protected member speed. Derive a class Car that inherits from Vehicle. Add a member function in Car to set the speed and another to display it.
