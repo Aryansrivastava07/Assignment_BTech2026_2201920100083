@@ -17,3 +17,6 @@ Design a class Circle with a private member radius. Include a default constructo
 <br><br>
 <b>Question 6-</b><br>
 Create a base class Vehicle with a protected member speed. Derive a class Car that inherits from Vehicle. Add a member function in Car to set the speed and another to display it.
+<br><br>
+<b>Question 7-</b><br>
+Define a base class Shape with a virtual function area(). Derive classes Rectangle and Circle from Shape and override the area() function. Write a program that calculates the area of a rectangle and a circle using pointers to the base class.
