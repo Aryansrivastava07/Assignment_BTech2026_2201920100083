@@ -20,3 +20,7 @@ Create a base class Vehicle with a protected member speed. Derive a class Car th
 <br><br>
 <b>Question 7-</b><br>
 Define a base class Shape with a virtual function area(). Derive classes Rectangle and Circle from Shape and override the area() function. Write a program that calculates the area of a rectangle and a circle using pointers to the base class.
+<br><br>
+<b>Question 8-</b><br>
+Create two classes, ClassA and ClassB. ClassB should have a member function that returns the private member of ClassA. Use a friend function to access ClassA's private data from ClassB.
+
