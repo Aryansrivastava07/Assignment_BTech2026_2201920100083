@@ -23,4 +23,7 @@ Define a base class Shape with a virtual function area(). Derive classes Rectang
 <br><br>
 <b>Question 8-</b><br>
 Create two classes, ClassA and ClassB. ClassB should have a member function that returns the private member of ClassA. Use a friend function to access ClassA's private data from ClassB.
+<br><br>
+<b>Question 9-</b><br>
+Implement a class Account with private members balance and accountNumber. Provide public methods to deposit, withdraw, and check the balance. Ensure that withdrawals cannot exceed the balance.
 
