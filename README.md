@@ -28,5 +28,9 @@ Create two classes, ClassA and ClassB. ClassB should have a member function that
 Implement a class Account with private members balance and accountNumber. Provide public methods to deposit, withdraw, and check the balance. Ensure that withdrawals cannot exceed the balance.
 <br><br>
 <b>Question 10-</b><br>
-Create a base class Vehicle with a protected member speed. Derive a class Car that inherits from Vehicle. Add a member function in Car to set the speed and another to display it.
+Implement a class MathOperations with overloaded functions multiply() that can handle:
+ •	Two integers
+ •	Two doubles
+ •	Three integers
+Demonstrate the use of each overloaded function.
 
