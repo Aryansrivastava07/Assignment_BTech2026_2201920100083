@@ -33,4 +33,7 @@ Implement a class MathOperations with overloaded functions multiply() that can h
  •	Two doubles
  •	Three integers
 Demonstrate the use of each overloaded function.
+<br><br>
+<b>Question 11-</b><br>
+Define an abstract class Animal with a pure virtual function sound(). Derive classes Dog and Cat from Animal and override the sound() function.
 
