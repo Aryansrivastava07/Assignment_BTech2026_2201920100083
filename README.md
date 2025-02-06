@@ -36,4 +36,8 @@ Demonstrate the use of each overloaded function.
 <br><br>
 <b>Question 11-</b><br>
 Define an abstract class Animal with a pure virtual function sound(). Derive classes Dog and Cat from Animal and override the sound() function.
+<br><br>
+<b>Question 12-</b><br>
+Implement a class Counter with a static data member count and a static member function getCount() to keep track of the number of objects created.
+
 
