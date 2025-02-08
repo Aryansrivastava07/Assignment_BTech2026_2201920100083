@@ -42,5 +42,8 @@ Implement a class Counter with a static data member count and a static member fu
 <br><br>
 <b>Question 13-</b><br>
 Define an abstract class Animal with a pure virtual function sound(). Derive classes Dog and Cat from Animal and override the sound() function.
+<br><br>
+<b>Question 14-</b><br>
+Create a base class Base with a virtual function show(). Derive a class Derived that overrides the show() function.
 
 
